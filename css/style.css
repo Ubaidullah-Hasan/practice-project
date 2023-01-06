@@ -1,0 +1,14 @@
+header {
+    height: 600px;
+    width: 100vw;
+    overflow: hidden;
+    background: linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.8)), url("https://bit.ly/2rlzaXi"); /* The least supported option. */
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+*{
+    margin: 0;
+}
